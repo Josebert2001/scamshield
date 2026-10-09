@@ -1,0 +1,4 @@
+data
+frontend
+**/__pycache__
+ml/train.py

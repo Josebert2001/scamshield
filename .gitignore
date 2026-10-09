@@ -1,0 +1,6 @@
+__pycache__/
+.env
+# raw Kaggle emails: real third-party data, do not publish (CC BY-SA 4.0)
+data/nigerian_fraud_raw.csv
+data/uci_sms_raw.tsv
+data/_archive/
