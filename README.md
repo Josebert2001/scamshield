@@ -2,6 +2,8 @@
 
 Paste a suspicious SMS or email and get a verdict, a risk level and plain-language reasons, in **English or Nigerian Pidgin**. It is built for scams common in Nigeria: fake bank alerts asking for a BVN, OTP or PIN, "you've won" prizes, investment schemes, fake jobs with a "registration fee", and loan scams.
 
+![ScamShield result for a fake bank alert: Likely a scam, Bank phishing, High risk, with reasons](docs/screenshot.jpg)
+
 ## Why
 
 ScamShield started from a personal loss: the author was scammed and had no simple tool to check a message before acting. Most scam detectors target Western phishing and none speak Nigerian Pidgin. This one explains *why* a message looks like a scam, in a language people actually use. See `devpost-story.md` for the full story.
